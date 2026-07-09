@@ -1,0 +1,23 @@
+.blok{
+    background-color: rgb(197, 206, 235);
+    margin: 20px;
+    padding: 20px;
+    text-align:justify;
+    border:dotted;
+    box-shadow: 10px 10px 20px 10px;
+}
+h2{
+    text-align: center;
+}
+.no{
+    background-color: rgb(172, 224, 224);
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+    background-image: url("rufaida.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1500px;
+    
+}
